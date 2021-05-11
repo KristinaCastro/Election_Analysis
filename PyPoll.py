@@ -75,26 +75,7 @@ with open(file_to_load) as election_data:
         f"------------------------------\n")
     print(winning_candidate_summary)
     
-            #4 Print the candidate name and percentage of votes
-        # print(f"{candidate_name}: received {vote_percentage:.1f}% of the vote.")
 
-    #print(candidate_votes)
-        #print(total_votes) = to get total votes
-    # Open the election results and read the file.
-# with open(file_to_load) as election_data:
-    # for row in election_data:
-        # print(row)
-'''
-     practice_writing = (
-        f"\nCounties in the Election\n"
-        f"___________________________\n"
-        f"\nArapahoe\nDenver\nJefferson\n")
-print(practice_writing, end="")
-'''
+  
 
-
-#2. A complete list of candidates who received votes
-#3. The percentage of votes each candidate won
-#4. The total number of votes each candidate won
-#5. The winner of the election based on popular vote.
 
