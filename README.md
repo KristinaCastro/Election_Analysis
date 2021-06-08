@@ -11,7 +11,8 @@ Our goal:
 
 ## Election-Audit Results:
    - How many votes were cast in this congressional election?
-    - 369,711 total votes were cast
+      - 369,711 total votes were cast
+      - [Total Votes Cast](https://github.com/KristinaCastro/Election_Analysis/blob/main/total_votes.png)
 
       
   
