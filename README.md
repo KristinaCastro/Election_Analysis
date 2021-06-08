@@ -40,13 +40,7 @@ Our goal:
 
 This automated script can be used for any election, by modifying the script with the appropriate csv file, updating the variables and creating the appropriate lists and dictionaries, this automation will serve to be extremely useful while saving time. Furthermore, the Board of Elections can use this code for other elections such as a county sheriff's election, by modifying the code with the corresponding csv file and updating the code to reflect the specific districts within a county. 
 
-With just a few modifications, this code can successfully audit any election & certify the winning results.
-
-
-
-
-
-      
-  
-  
-
+With just a few modifications, this code can provide all the needed information, certify the winning results and as a result successfully audit any election. 
+<p align="center">
+  <img width="324" alt="Screen Shot 2021-06-08 at 4 09 14 AM" src="https://user-images.githubusercontent.com/81998045/121147898-4acdd480-c80f-11eb-9bba-247ccb3e080f.png">
+</p>
