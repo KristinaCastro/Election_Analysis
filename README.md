@@ -33,7 +33,11 @@ Our goal:
          - <img width="297" alt="Screen Shot 2021-06-08 at 3 25 25 AM" src="https://user-images.githubusercontent.com/81998045/121141609-2bcc4400-c809-11eb-8953-ee4362b32640.png">
   - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     - Diana DeGette won the election
-      - [Election Winner]  
+      - [Election Winner](https://github.com/KristinaCastro/Election_Analysis/blob/main/candidate_winner_py.png)
+        - <img width="259" alt="Screen Shot 2021-06-08 at 3 33 35 AM" src="https://user-images.githubusercontent.com/81998045/121142754-5074eb80-c80a-11eb-9a57-c7b2a72ef6ea.png">
+
+## Election-Audit Summary:
+
 
 
 
