@@ -10,7 +10,9 @@ Our goal:
   - To automate the election audit process using Python, if done successfully the code we write will be used to audit other congressional districts, senetorial disctricts and local elections. 
 
 ## Election-Audit Results:
-      - How many votes were cast in this congressional election?
+   - How many votes were cast in this congressional election?
+    - 369,711 total votes were cast
+
       
   
   
