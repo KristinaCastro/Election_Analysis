@@ -38,6 +38,10 @@ Our goal:
 
 ## Election-Audit Summary:
 
+This automated script can be used for any election, by modifying the script with the apporopriate csv file, updating the variables and creating the appropriate lists and dictionaries, this automation will serve to be extremely useful while saving time. Furthermore, the Board of Elections can use this code for other elections such as a county sheriff's election, by modyfing the code with the corresponding csv file and updating the code to reflect the specific districts with in a county. 
+
+With just a few modifications, this code can successfully audit any election & certify the winning results.
+
 
 
 
