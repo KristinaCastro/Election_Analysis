@@ -24,7 +24,13 @@ Our goal:
    
   -  Which county had the largest number of votes?     
      - Denver had the largest county turnout
-        - [Largest County Turnout]
+        - [Largest County Turnout](https://github.com/KristinaCastro/Election_Analysis/blob/main/lg_county_turnout.png)
+        
+           -  <img width="246" alt="Screen Shot 2021-06-08 at 3 13 38 AM" src="https://user-images.githubusercontent.com/81998045/121140155-8795cd80-c807-11eb-93f3-a0da8828534f.png">
+  - Number of votes and the percentage of the total votes each candidate received 
+    - Again a for loop was used to determine each candidate, retreive the vote count and percentage of votes for each candidate.
+      - [Candidate Votes & %]  
+
 
 
       
