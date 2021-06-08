@@ -12,7 +12,11 @@ Our goal:
 ## Election-Audit Results:
    - How many votes were cast in this congressional election?
       - 369,711 total votes were cast
-      - [Total Votes Cast](https://github.com/KristinaCastro/Election_Analysis/blob/main/total_votes.png)
+        - [Total Votes Cast](https://github.com/KristinaCastro/Election_Analysis/blob/main/total_votes.png)
+  
+  - Number of votes and the percentage of total votes for each county in the precinct. 
+    - I used a for loop to retreive the county, county vote count and then calculated the percentage of county votes for each county.
+      - [County Votes & %]  
 
       
   
