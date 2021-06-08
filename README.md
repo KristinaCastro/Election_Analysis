@@ -28,8 +28,13 @@ Our goal:
         
            -  <img width="246" alt="Screen Shot 2021-06-08 at 3 13 38 AM" src="https://user-images.githubusercontent.com/81998045/121140155-8795cd80-c807-11eb-93f3-a0da8828534f.png">
   - Number of votes and the percentage of the total votes each candidate received 
-    - Again a for loop was used to determine each candidate, retreive the vote count and percentage of votes for each candidate.
-      - [Candidate Votes & %]  
+    - Again a for loop was used to determine each candidate, then retreive the vote count and percentage of votes for each candidate.
+      - [Candidate Votes & %](https://github.com/KristinaCastro/Election_Analysis/blob/main/candidate_votes%20info_py.png) 
+         - <img width="297" alt="Screen Shot 2021-06-08 at 3 25 25 AM" src="https://user-images.githubusercontent.com/81998045/121141609-2bcc4400-c809-11eb-8953-ee4362b32640.png">
+  - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+    - Diana DeGette won the election
+      - [Election Winner]  
+
 
 
 
